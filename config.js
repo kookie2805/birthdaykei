@@ -5,6 +5,7 @@ var config = {
         "Happy Level Up Day!!",
         "May you always be given health, and happiness",
         "I hope all your birthday wishes and dreams come true.",
+        "i wish you all the best",
         "🤍🤍",
         
     ],
